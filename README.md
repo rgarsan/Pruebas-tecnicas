@@ -1,5 +1,2 @@
-# pruebasTecnicas
-# Pruebas-tecnicas
-# Pruebas-tecnicas
-# Pruebas-tecnicas
-# pruebas-tecnicas
+# Ejercicios para practicar y superar posibles pruebas técnicas
+
